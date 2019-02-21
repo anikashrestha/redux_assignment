@@ -1,0 +1,15 @@
+.theme{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+ 
+}
+.themeLight {
+  background: whitesmoke;
+  color: black;
+}
+.themeDark {
+  background: black;
+  color: whitesmoke;
+}
